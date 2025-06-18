@@ -10,7 +10,11 @@ class YouTubeCommentCrawler:
     def __init__(self, root):
         self.root = root
         root.title("유튜브 댓글 저장기")
-        root.geometry("450x180")
+
+        root.update_idletasks()
+        desired_width = 500
+        auto_height = root.winfo_reqheight()
+        root.geometry(f"{desired_width}x{auto_height}")
 
         self.selected_folder = "저장 경로를 설정해주세요"
 
