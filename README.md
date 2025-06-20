@@ -6,6 +6,7 @@
 롱폼과 쇼츠 모두 지원하며, 크롬 브라우저와 함께 동작합니다.
 
 ![2025-06-2012 18 57-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bc9124b3-d39f-482c-abf5-53ae83f77b9a)
+
 실행을 위해 유튜브 URL과 저장 경로를 설정하여 시작 버튼을 누르면 크롬 브라우저가 실행되고 자동으로 스크롤이 움직여 댓글을 저장합니다.
 (1.5초 당 댓글 20개)
 
