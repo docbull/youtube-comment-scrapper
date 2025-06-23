@@ -1,4 +1,4 @@
-# YouTube Comment Crawler (Shorts supported)
+# YouTube Comment Scrapper (Shorts supported)
 <img width="501" alt="UI" src="https://github.com/user-attachments/assets/8718dc9f-8ff4-4c3b-bfc0-bdb30fe04cf7" />
 
 유튜브 댓글을 엑셀로 저장해주는 파이썬 프로그램 입니다.
