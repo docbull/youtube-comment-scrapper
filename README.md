@@ -38,7 +38,7 @@ This code works with [Chrome browser](https://www.google.com/intl/en/chrome/), t
 Run a command for installing python packages.
 
 ```
-$ pip install selenium pyautogui numpy pandas webdriver_manager
+$ pip install selenium pyautogui numpy pandas webdriver_manager openpyxl
 ```
 
 
